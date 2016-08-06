@@ -1,0 +1,29 @@
+_repo: The-Unspeakable-Gentleman_10109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marquand, John P. (John Phillips)
+    alias: Marquand, John Phillips
+    birthdate: 1893
+    deathdate: 1960
+    gutenberg_agent_id: '3310'
+    url: http://www.gutenberg.org/2009/agents/3310
+    wikipedia: http://en.wikipedia.org/wiki/John_P._Marquand
+description: Tale of romance in an American seaport town.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Massachusetts -- Fiction'
+- GITenberg
+title: The Unspeakable Gentleman
+url: http://www.gutenberg.org/ebooks/10109
